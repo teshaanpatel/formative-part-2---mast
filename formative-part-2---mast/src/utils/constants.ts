@@ -7,4 +7,4 @@ export const COLORS = {
   text: '#2F4F4F', // Dark slate
 };
 
-export const PLACEHOLDER_IMAGE = require('../assets/images/food.jpg');
+export const PLACEHOLDER_IMAGE = require('../assets/images/food.jpg'); // place holder image works accordingly
