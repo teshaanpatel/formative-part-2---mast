@@ -6,7 +6,7 @@ import HomeScreen from '../screens/HomeScreen';
 import MenuScreen from '../screens/MenuScreen';
 import CategoryScreen from '../screens/CategoryScreen';
 import ProfileScreen from '../screens/ProfileScreen';
-import AddMenuItemScreen from '../screens/AddMenuItemScreen';
+import AddMenuItemScreen from '../screens/AddMenuItemScreen'; //got imports correct
 
 // Define types for the tab navigator routes
 type TabParamList = {
@@ -16,7 +16,6 @@ type TabParamList = {
   Profile: undefined;
 };
 
-// Define types for the stack navigator routes
 type RootStackParamList = {
   Tabs: undefined;
   AddMenuItem: undefined;

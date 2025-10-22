@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useState, ReactNode } from 'react';
 import { MenuItem } from '../types/types';
-
+//adding item issue
 interface MenuContextType {
   menuItems: MenuItem[];
   addItem: (item: Omit<MenuItem, 'id'>) => void;
