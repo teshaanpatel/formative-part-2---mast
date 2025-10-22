@@ -18,3 +18,6 @@ const styles = StyleSheet.create({
 });
 
 export default AddMenuItemScreen;
+
+
+//adding items now work correctly without any errors or bugs
