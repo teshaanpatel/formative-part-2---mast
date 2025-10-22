@@ -17,5 +17,5 @@ const styles = StyleSheet.create({
   button: { backgroundColor: COLORS.secondary, padding: 10, borderRadius: 5, margin: 10 },
   text: { color: 'white' },
 });
-
+//filter button did not filter items
 export default FilterButton;

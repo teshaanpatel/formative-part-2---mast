@@ -26,7 +26,7 @@
       </Animatable.View>
     );
   };
-
+//fixed code to work - style sheet was broken
   const styles = StyleSheet.create({
     card: { flexDirection: 'row', margin: 10, backgroundColor: COLORS.background, borderRadius: 10, padding: 10 },
     image: { width: 80, height: 80, borderRadius: 10 },
